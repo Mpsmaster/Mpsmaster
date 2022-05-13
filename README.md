@@ -15,6 +15,7 @@
 </div>
  
  <br>
+  <h3>✒️ Meu Status no GithHub</h3>
   [![Image of https://github.com/Mpsmaster/Viewcounter](https://github.com/Mpsmaster/Viewcounter/blob/master/svg/profile/badge.svg)](https://github.com/Mpsmaster/Viewcounter)
  
   ### Também me encontre nas redes abaixo!

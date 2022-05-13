@@ -14,11 +14,12 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
+  <div align="center">
  <br>
   <h3>✒️ Meu Status no GitHub</h3>
   
   [![Image of https://github.com/Mpsmaster/Viewcounter](https://github.com/Mpsmaster/Viewcounter/blob/master/svg/profile/badge.svg)](https://github.com/Mpsmaster/Viewcounter)
- 
+  </div>
   ### Também me encontre nas redes abaixo!
  
 <div> 

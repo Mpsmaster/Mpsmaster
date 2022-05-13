@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html, css, java, python and c#;  
 - 💞️ I’m looking to collaborate on the creation of a better and more creative world;  
 
-<div align"center">
+<div>
   <a href="https://github.com/Mpsmaster">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mpsmaster&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mpsmaster&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -20,7 +20,9 @@
   
   [![Image of https://github.com/Mpsmaster/Viewcounter](https://github.com/Mpsmaster/Viewcounter/blob/master/svg/profile/badge.svg)](https://github.com/Mpsmaster/Viewcounter)
   </div>
+  <div align="center">
   ### Também me encontre nas redes abaixo!
+  </div>
  
 <div> 
   <a href="https://www.youtube.com/channel/UCZNYTGQzRlKEwUzic2lwpLQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>

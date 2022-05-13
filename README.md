@@ -18,7 +18,7 @@
  
   <div align="center">
  <br>
-  <h3>✒️ Meu Status no GitHub</h3>
+  <h3>✒️ Número de visitantes no meu GitHub</h3>
   
   [![Image of https://github.com/Mpsmaster/Viewcounter](https://github.com/Mpsmaster/Viewcounter/blob/master/svg/profile/badge.svg)](https://github.com/Mpsmaster/Viewcounter)
   </div>

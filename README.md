@@ -2,7 +2,7 @@
 
 I am an aspiring Full-Stack Software Developer specializing in Python. With a professional background in education and music, I bring structured problem-solving, deep analytical thinking, and a strong dedication to continuous learning to the world of software engineering.
 
-Currently building my technical foundations and engineering skills through intensive programs at **Coty Academy** and **EBAC**.
+Currently building my technical foundations and engineering skills through intensive programs at **Coti Informática** and **EBAC**.
 
 ---
 

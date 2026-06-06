@@ -1,37 +1,34 @@
-- 👋 Hi, I’m @Mpsmaster
-- 👀 I’m interested in learn how to make magic and beauty with the best code skills;  
-- 🌱 I’m currently learning html, css, java, python and c#;  
-- 💞️ I’m looking to collaborate on the creation of a better and more creative world;  
+# Hi, I'm Marco Polo (Mpsmaster) 👋
 
-<div align="center">
-<div>
-  <a href="https://github.com/Mpsmaster">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mpsmaster&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mpsmaster&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-</div>
- 
+I am a Full-Stack Software Developer specializing in Python. With a professional background in education and music, I excel at breaking down complex systems, structured problem-solving, and writing highly organized, maintainable code. 
 
-  <div align="center">
-    <h3>Também me encontre nas redes abaixo!</h3>
-  </div>
- 
-<div align="center"> 
-  
-  <a href="https://www.youtube.com/channel/UCZNYTGQzRlKEwUzic2lwpLQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/marcomelifluo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:canae1540@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marco-polo-sobreira-03797a10b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
- 
-  ![Snake animation](https://github.com/Mpsmaster/Mpsmaster/blob/output/github-contribution-grid-snake.svg)
+Currently leveling up my technical skills through intensive development programs at **Coty Academy** and **EBAC**.
 
-</div>
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Backend & Databases**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Dev Tools**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🎯 What I'm Up To
+- 🔭 Working on: High-market-value CRUD applications and REST APIs.
+- 🎓 Studying: Advanced Backend Architecture & Software Design Patterns.
+- 💬 Ask me about: How musical theory and programming logic share the exact same DNA.
+
+---
+
+### 🌐 Let's Connect!

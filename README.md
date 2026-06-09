@@ -21,7 +21,7 @@ Currently building my technical foundations and engineering skills through inten
 ---
 
 ### 📚 My 2026 Learning Roadmap
-*These are the technologies I am actively studying and implementing in my upcoming Coty & EBAC projects:*
+*These are the technologies I am actively studying and implementing in my upcoming Coty & Mate Academy projects:*
 
 **Backend & Databases**
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
